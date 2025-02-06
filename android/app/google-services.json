@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "587659421384",
+    "firebase_url": "https://envirolink-5b459-default-rtdb.firebaseio.com",
+    "project_id": "envirolink-5b459",
+    "storage_bucket": "envirolink-5b459.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587659421384:android:b288f2d418319a650ce7fd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firsproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwssyhK-L9Yfyl7M7qhWmaD5jUQ7NGQjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
